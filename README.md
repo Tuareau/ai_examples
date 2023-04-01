@@ -9,5 +9,9 @@ Homework for artificial intelligence course
 	- Loss Function
 	- Gradient Descend Algorithm
 3. XOR-problem
+	- Neural Networks:
+		- 1 hidden layer (nw1hlmodel.py)
+		- 2 hidden layers (nw2hlmodel.py)
+		- neurons number configurable
 4. Clasterization
 
