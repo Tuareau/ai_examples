@@ -10,8 +10,10 @@ Homework for artificial intelligence course
 	- Gradient Descend Algorithm
 3. XOR-problem
 	- Neural Networks:
-		- 1 hidden layer (nw1hlmodel.py)
-		- 2 hidden layers (nw2hlmodel.py)
+		- 1 hidden layer
+		- 2 hidden layers
 		- neurons number configurable
-4. Clasterization
-
+4. Clustering
+	- K-means
+	- Threshold
+	- Derihlet Process Mixture Model (DPMM)
